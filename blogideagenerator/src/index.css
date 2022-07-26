@@ -1,1 +1,14 @@
-
+*{
+   font-family: 'Circularstd book',sans-serif;
+  color: #160647;
+  height: 100vh;
+  line-height: 1.44;
+  font-weight: 700;
+}
+.navtest{
+  display: flex;
+  font-size: 21px;
+  justify-content: space-between;
+  margin-top: 0%;
+ 
+}
