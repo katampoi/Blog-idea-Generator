@@ -1,0 +1,105 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "car.",
+            "idea": "For The Love of Cars: Everything about cars from maintaining them to buying them. We’ve got your covered."
+        },
+        {
+            "id": 2,
+            "title": "Movies",
+            "idea": "The Best Of Bollywood: A blog of the best Bollywood movies."
+        },
+        {
+            "id": 3,
+            "title": "car",
+            "idea": "How To Make The Most Of a Car Loan- Expert Advice: A blog about getting the most out of your car loan."
+        },
+        {
+            "id": 4,
+            "title": "Movies",
+            "idea": "Movie Review: Deadpool. The super, super hero that serious movie critics deep down knew we all wanted, even if they’d never admit to it: A blog on the amazing movie Deadpool."
+        },
+        {
+            "id": 5,
+            "title": "Song",
+            "idea": "About the Best Song Ever: A Blog Post About Best Songs"
+        },
+        {
+            "id": 6,
+            "title": "travel",
+            "idea": "best world destination"
+        },
+        {
+            "id": 7,
+            "title": "song",
+            "idea": "Premier League Songs: a blog on the top Premier League songs in order of greatness"
+        },
+        {
+            "id": 8,
+            "title": "gym",
+            "idea": "best gym practises"
+        },
+        {
+            "id": 9,
+            "title": "weather",
+            "idea": "summer weather"
+        },
+        {
+            "id": 10,
+            "title": "gym",
+            "idea": "how to be concistent in gym workout"
+        },
+        {
+            "id": 11,
+            "title": "weather",
+            "idea": "Opinions on weather and climate "
+        },
+        {
+            "id": 12,
+            "title": "forex",
+            "idea": "forex trade"
+        },
+        {
+            "id": 13,
+            "title": "money",
+            "idea": "Clever Girl Finance"
+        },
+        {
+            "id": 14,
+            "title": "forex",
+            "idea": "How much can a beginner earn from forex?"
+        },
+        {
+            "id": 15,
+            "title": "time",
+            "idea": "Time Management Chef"
+        },
+        {
+            "id": 16,
+            "title": "currency",
+            "idea": "CurrencyFair Blog"
+        },
+        {
+            "id": 17,
+            "title": "time",
+            "idea": "Freakishly Productive. Time management and productivity"
+        },
+        {
+            "id": 18,
+            "title": "currency",
+            "idea": "Money Transfer & Foreign Exchange "
+        },
+        {
+            "id": 19,
+            "title": "countries",
+            "idea": "Every Country in the World"
+        },
+        {
+            "id": 20,
+            "title": "countries",
+            "idea": "10 Worst Countries"
+        }
+    ]
+}
+       

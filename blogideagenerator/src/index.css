@@ -1,14 +1,44 @@
 *{
    font-family: 'Circularstd book',sans-serif;
   color: #160647;
-  height: 100vh;
   line-height: 1.44;
   font-weight: 700;
+  background-color: #99ddcf;
 }
 .navtest{
   display: flex;
   font-size: 21px;
   justify-content: space-between;
   margin-top: 0%;
+  position: sticky;
  
+}
+.about{
+  margin-left: 5%;
+}
+.formcontent{
+  display: inline-block;
+  padding: 1.5rem;
+  margin-left: 13%;
+  font-size: 51px;
+  background-color: rgb(200, 236, 236);
+  width: 75%;
+}
+.formField{
+  padding: 1.5rem 1.5rem;
+  padding-right: 80%;
+  text-align: center;
+}
+.button{
+  padding: 2.5rem;
+  text-align: center;
+  
+}
+.key{
+  padding-inline-start: 8.5%;
+  padding-inline-end: 8.5%;
+  font-size: 31px;
+  background-color: #160647;
+  color: whitesmoke;
+  border-radius: 15px;
 }
