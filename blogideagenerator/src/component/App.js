@@ -14,7 +14,6 @@ function App() {
       <Nav />
       <About />
       <Form />
-      {/* <Button /> */}
       <BlogIdea />
       
     </div>
